@@ -1,0 +1,42 @@
+button {
+    border-radius: 5px;
+    /* padding: 2px; */
+    border: 1px solid black;
+    margin: 3px;
+}
+
+button:hover {
+    background-color: black;
+    color: cornsilk;
+    border: 4px solid #888888;
+    margin: 0;
+}
+
+button:focus {
+    border: 4px solid #888888;
+    margin: 0;
+}
+
+#promo_button {
+    border-radius: 5px;
+    background-color: crimson;
+    color: cornsilk;
+    border: 4px solid white;
+    margin: 0;
+    padding: 3px;
+    
+}
+
+#promo_button:hover {
+    background-color: crimson;
+    border: 4px solid white;
+    margin: 0;
+    padding: 3px;  
+
+}
+#promo_button:focus {
+    border: 4px solid white;
+    margin: 0;
+    padding: 3px;   
+}
+
